@@ -12,7 +12,7 @@ public class ChessStandAlone {
         Board board = Board.initialBoard();
         System.out.println(board);
         int count = 0;
-        Strategy strategy = new Minimax(2);
+        Strategy strategy = new Minimax(5);
         Strategy strategy2 = new Minimax(1);
         while (!board.currentPlayer().inCheckMate()) {
             count++;
