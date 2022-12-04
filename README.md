@@ -38,4 +38,4 @@ Impossiblité de mater :
 - roi et fou contre roi et fou de même couleur.
 
 # Protocole réseau :
-image presente dans : -> doc/Protocole_Chess.png
+![Protocole_Chess](https://user-images.githubusercontent.com/113891431/205516228-eb12b8fb-4f1d-4a2a-a0f7-76948e4ee292.png)
