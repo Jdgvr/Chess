@@ -1,0 +1,6 @@
+com\chess\AppTest.class
+com\chess_POO\test\AITest.class
+com\chess_POO\test\BoardTest.class
+com\chess_POO\test\CheckTest.class
+com\chess_POO\test\PieceTest.class
+com\chess_POO\test\CastleTest.class
